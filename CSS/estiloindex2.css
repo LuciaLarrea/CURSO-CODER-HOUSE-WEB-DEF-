@@ -126,12 +126,16 @@ right: 10px;
 
 }
 .containernosotros {
+    background-color: rgb(231, 215, 121);
     margin-top: 30px;
     padding: 30px 20px 10px 20px;
     display: flex;
     justify-content:space-between;
     border-radius: 4px;
-    background-image: url(https://www.freepik.es/foto-gratis/texto-100-neutro-carbono-textura-natural_28260284.htm#query=co2&position=3&from_view=search&track=sph);
+    background-image: url("../IMG/texto-100-neutro-carbono-textura-natural_23-2149456303.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
 }
 .containernosotrosdiv h1 {
     color: azure;
@@ -140,10 +144,6 @@ right: 10px;
 .descripcioncontainernosotros {
     font-size: 35px;
     z-index: 1;
-}
-
-.imagenfondonosotros{
-    background-image: url(https://www.freepik.es/foto-gratis/texto-100-neutro-carbono-textura-natural_28260284.htm#query=co2&position=3&from_view=search&track=sph);
 }
 
 /* MODELING de productos*/
