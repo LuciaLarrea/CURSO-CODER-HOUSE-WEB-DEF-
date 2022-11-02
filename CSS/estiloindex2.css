@@ -123,7 +123,7 @@ right: 10px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-
+    max-width: 100vh;
 }
 .containernosotros {
     background-color: rgb(231, 215, 121);
