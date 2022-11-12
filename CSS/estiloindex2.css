@@ -105,16 +105,16 @@ right: 10px;
     justify-content: center;
 }
 .divformuariogral textarea{
-    width: 300px;
+    width: 100%;
     
 }
 .fondocontactosform{
     background-color: darkslategrey;
-    width: 50%;
-    padding: 4px;
+    width: 80%;
+    padding: 10px;
 }
 .divformuariogral input{
-    width: 200px;
+    width: max-content;
 }
 
 /* MODELING de nosotros*/
