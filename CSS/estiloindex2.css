@@ -103,15 +103,16 @@ right: 10px;
 .contenedorcontacto {
     display:flex;
     justify-content: center;
+    margin-top: 60px;
+    padding-bottom: 60px;
 }
 .divformuariogral textarea{
     width: 100%;
-    
 }
 .fondocontactosform{
     background-color: darkslategrey;
-    width: 80%;
-    padding: 10px;
+    width: 100%;
+    padding: 20px;
 }
 .divformuariogral input{
     width: max-content;
@@ -183,10 +184,18 @@ right: 10px;
 
 /* MODELING de Resena Brusa*/
 
+.contenedorimagenresena {
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
 .imagecontainerbackground {
-    background-image: url("/IMG/ACONDICIONADOR-SOLIDO\ imagen\ 5.jpg");
-    width: 100vw;
-    height: 300px;
+    background-image: url("../IMG/ACONDICIONADOR-SOLIDO\ imagen\ 5.jpg");
+    padding: 10px;
+    width: 200vw;
+    height: 400px;
+    margin-top: 5px;
 }
 .textocentradoresena {
     text-align: center;
@@ -210,6 +219,10 @@ right: 10px;
 .nosotrosiconosydetalle {
     text-align: center;
     margin-top: 10px;
+}
+
+.maxresenha {
+    align-items: center;
 }
 
 
